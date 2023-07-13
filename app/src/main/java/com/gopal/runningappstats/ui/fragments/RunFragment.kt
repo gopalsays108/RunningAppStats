@@ -32,7 +32,7 @@ class RunFragment : Fragment(), EasyPermissions.PermissionCallbacks {
         savedInstanceState: Bundle?
     ): View? {
         runBinding = FragmentRunBinding.inflate(inflater)
-        return super.onCreateView(inflater, container, savedInstanceState)
+        return runBinding.root
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
