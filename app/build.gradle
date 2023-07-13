@@ -98,7 +98,7 @@ dependencies {
 
 
     // Easy Permissions
-//    implementation 'pub.devrel:easypermissions:3.0.0'
+    implementation 'pub.devrel:easypermissions:3.0.0'
 
     // Timber
     implementation 'com.jakewharton.timber:timber:4.7.1'

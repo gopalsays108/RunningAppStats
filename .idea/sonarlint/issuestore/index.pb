@@ -7,8 +7,6 @@ q
 Aapp/src/main/java/com/gopal/runningappstats/db/RunningDatabase.kt,f\2\f24153aa29a2d43d3b2a76eaec84b3e7e2fbde3f
 l
 <app/src/main/java/com/gopal/runningappstats/db/Convertors.kt,7\a\7ac943f3df874225e89f943346e21465c7d8beaa
-m
-=app/src/main/java/com/gopal/runningappstats/utils/Constant.kt,6\5\653e04b7effce66caaaa655e4cdfb11142b81908
 z
 Japp/src/main/java/com/gopal/runningappstats/repositories/MainRepository.kt,c\2\c2a31d98ca946fb80dd68fdc48b9bdc6976b8d55
 k
@@ -27,5 +25,3 @@ Lapp/src/main/java/com/gopal/runningappstats/ui/fragments/TrackingFragment.kt,0
 Napp/src/main/java/com/gopal/runningappstats/ui/fragments/StatisticsFragment.kt,a\a\aa402b92b1989ba3198f9cb0215340e45dd83478
 y
 Iapp/src/main/java/com/gopal/runningappstats/ui/fragments/SetupFragment.kt,c\4\c438562ae1b61ce82bcd09f3c077adf8a14c61ef
-w
-Gapp/src/main/java/com/gopal/runningappstats/ui/fragments/RunFragment.kt,f\6\f6149d4ede436baf7929ee5e83d90b0f9a473e1d
