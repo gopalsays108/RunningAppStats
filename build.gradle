@@ -16,4 +16,14 @@ plugins {
     id 'com.android.library' version '8.0.1' apply false
     id 'org.jetbrains.kotlin.android' version '1.8.20' apply false
     id 'androidx.navigation.safeargs' version '2.6.0' apply false
+    id 'com.google.dagger.hilt.android' version '2.44' apply false
 }
+
+//allprojects{ This block of code is not transfered to settings.gradle
+//    repositories {
+//        google()
+//        mavenCentral()
+//        maven { url "https://jitpack.io" }
+//    }
+//}
+
