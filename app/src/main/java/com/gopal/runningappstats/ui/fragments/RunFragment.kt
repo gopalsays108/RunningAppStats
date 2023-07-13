@@ -30,7 +30,7 @@ class RunFragment : Fragment(), EasyPermissions.PermissionCallbacks {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         runBinding = FragmentRunBinding.inflate(inflater)
         return runBinding.root
     }

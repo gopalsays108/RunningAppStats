@@ -13,15 +13,9 @@ k
 ;app/src/main/java/com/gopal/runningappstats/di/AppModule.kt,6\d\6d6c9f4d9a94925a261bb69611e65495bba486a2
 n
 >app/src/main/java/com/gopal/runningappstats/BaseApplication.kt,0\6\069bc62aa411450da28154a8afb232dd1a5b9a75
-z
-Japp/src/main/java/com/gopal/runningappstats/ui/viewmodels/MainViewModel.kt,7\9\79343d3d34dd175853633ebaa65c6a36215da59f
 
 Oapp/src/main/java/com/gopal/runningappstats/ui/viewmodels/StatisticViewModel.kt,c\4\c476415c2988e6d6fdb69ecb1bb59bdf79268e23
 |
 Lapp/src/main/java/com/gopal/runningappstats/ui/fragments/SettingsFragment.kt,8\e\8ef4e23e0e6252eb2e52cd3b0a5701e5b19f9c3b
-|
-Lapp/src/main/java/com/gopal/runningappstats/ui/fragments/TrackingFragment.kt,0\5\0544d97c657cea5032edd9a0ababd94e9927a7da
-~
-Napp/src/main/java/com/gopal/runningappstats/ui/fragments/StatisticsFragment.kt,a\a\aa402b92b1989ba3198f9cb0215340e45dd83478
 y
 Iapp/src/main/java/com/gopal/runningappstats/ui/fragments/SetupFragment.kt,c\4\c438562ae1b61ce82bcd09f3c077adf8a14c61ef
